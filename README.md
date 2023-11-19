@@ -2,7 +2,7 @@
 ```python
 public final class Programming {
     main() {
-        console.log("lua {}".format("yyds!"))
+        console.log("hello {}".format("world!"))
     }
 }
 ```

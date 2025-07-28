@@ -11,10 +11,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=boluokk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+   <img height=200 align="center" src="https://github-stats.enlysure.com/api?username=boluokk&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boluokk&layout=compact&theme=buefy&hide_border=true" />
+     <img height=200 align="center" src="https://github-stats.enlysure.com/api/top-langs/?username=boluokk&theme=radical&layout=donut&exclude_repo=PCL_scr&langs_count=6&hide=html&cache_seconds=86400" />
   </a>
 </div>
 
